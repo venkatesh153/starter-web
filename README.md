@@ -10,3 +10,5 @@ adding purpuse deployment
 Sample website with plenty of files for demos
 
 ## How to contn
+
+adding how to contains
