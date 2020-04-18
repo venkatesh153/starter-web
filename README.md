@@ -5,7 +5,7 @@ This repository is for showing how Git and GitHub work
 ## Introduction
 new learning 
 ## Purpose
-deployment
+adding purpuse deployment
 
 Sample website with plenty of files for demos
 
