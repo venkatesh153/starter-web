@@ -19,3 +19,9 @@ ttest
 one more test
 
 This is ew intro the is a sn
+
+
+###copy right
+testtest
+
+2014 git.traiing 
