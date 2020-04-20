@@ -10,15 +10,7 @@ adding purpuse deployment
 Sample website with plenty of files for demos
 
 ## How to contn
-
-adding how to contains
-
-new line
-ttest
-
-one more test
-
-This is ew intro the is a sn
+Please add this files new l
 
 
 ###copy right
