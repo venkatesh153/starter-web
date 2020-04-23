@@ -1,15 +1,17 @@
 <!DOCTYPE html>
 
 <!--
-Copy rightnotice ...
 
+fsfsdddfsd
+Copy rightnotice ...
+adding change before rebase
+
+kjhsdjfnlkjdkl
 -->
 <head>
-<<<<<<< HEAD
-	<title> A very respectfyl  website</title>
-=======
+	<title> An example website</title>
 	<title> greatewebsite</title>
->>>>>>> realwork
+	<title> A very respectfyl  website</title>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -21,21 +23,18 @@ Copy rightnotice ...
 </head>
 <body>
 	<main class="container">
-	<!-- Content Goes Here -->
-		<p>
 <<<<<<< HEAD
-			im not sure will go here t
-		</p>
-	</main>
-	<footer class="container">
-		<p>&copy; sama  2020</p>
+	<!-- Content fdasdfdfsdfdfdfGoes Here -->
 =======
-			Just some content get some hisng 
+	<!-- Content Goes Here 
+	
+	
+	fhsdkuhfhsdlflsdkjf---->
+>>>>>>> 2fe3eb4... fb addin some
+		<p>
 		</p>
 	</main>
 	<footer class="container">
-		<p>&copy;git  Company 2014</p>
->>>>>>> realwork
 	</footer>
 </body>
 </html>
